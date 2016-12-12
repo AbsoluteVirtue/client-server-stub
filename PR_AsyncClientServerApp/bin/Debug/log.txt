@@ -1,0 +1,29 @@
+06-Jun-15 20:09:23: Server started.
+06-Jun-15 20:09:23: Server socket Stream bound(True).
+06-Jun-15 20:09:23: Client 1084 connected.
+06-Jun-15 20:09:28: Message received: help.
+06-Jun-15 20:09:28: Request: HELP.
+06-Jun-15 20:09:49: Message received: echo PR is the best course this year.
+06-Jun-15 20:09:49: Request: ECHO.
+06-Jun-15 20:09:49: Argument[5]: PR.
+06-Jun-15 20:09:49: Argument[8]: is.
+06-Jun-15 20:09:49: Argument[11]: the.
+06-Jun-15 20:09:49: Argument[15]: best.
+06-Jun-15 20:09:49: Argument[20]: course.
+06-Jun-15 20:09:49: Argument[27]: this.
+06-Jun-15 20:09:49: Argument[32]: year.
+06-Jun-15 20:09:49: Reply: PR is the best course this year
+06-Jun-15 20:10:07: Message received: invert PR is the best course this year.
+06-Jun-15 20:10:07: Request: INVERT.
+06-Jun-15 20:10:07: Argument[7]: PR.
+06-Jun-15 20:10:07: Argument[10]: is.
+06-Jun-15 20:10:07: Argument[13]: the.
+06-Jun-15 20:10:07: Argument[17]: best.
+06-Jun-15 20:10:07: Argument[22]: course.
+06-Jun-15 20:10:07: Argument[29]: this.
+06-Jun-15 20:10:07: Argument[34]: year.
+06-Jun-15 20:10:07: Reply: raey siht esruoc tseb eht si RP
+06-Jun-15 20:10:12: Message received: time.
+06-Jun-15 20:10:12: Request: TIME.
+06-Jun-15 20:10:19: Message received: log.
+06-Jun-15 20:10:19: Request: LOG.

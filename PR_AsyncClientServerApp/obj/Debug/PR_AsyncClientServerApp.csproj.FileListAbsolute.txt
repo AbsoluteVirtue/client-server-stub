@@ -1,0 +1,6 @@
+D:\CPP\PR_AsyncClientServerApp\PR_AsyncClientServerApp\bin\Debug\PR_AsyncClientServerApp.exe.config
+D:\CPP\PR_AsyncClientServerApp\PR_AsyncClientServerApp\bin\Debug\PR_AsyncClientServerApp.exe
+D:\CPP\PR_AsyncClientServerApp\PR_AsyncClientServerApp\bin\Debug\PR_AsyncClientServerApp.pdb
+D:\CPP\PR_AsyncClientServerApp\PR_AsyncClientServerApp\obj\Debug\PR_AsyncClientServerApp.csprojResolveAssemblyReference.cache
+D:\CPP\PR_AsyncClientServerApp\PR_AsyncClientServerApp\obj\Debug\PR_AsyncClientServerApp.exe
+D:\CPP\PR_AsyncClientServerApp\PR_AsyncClientServerApp\obj\Debug\PR_AsyncClientServerApp.pdb

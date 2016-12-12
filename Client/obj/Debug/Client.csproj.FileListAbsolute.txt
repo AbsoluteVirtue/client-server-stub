@@ -1,0 +1,6 @@
+D:\CPP\PR_AsyncClientServerApp\Client\bin\Debug\Client.exe.config
+D:\CPP\PR_AsyncClientServerApp\Client\bin\Debug\Client.exe
+D:\CPP\PR_AsyncClientServerApp\Client\bin\Debug\Client.pdb
+D:\CPP\PR_AsyncClientServerApp\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\CPP\PR_AsyncClientServerApp\Client\obj\Debug\Client.exe
+D:\CPP\PR_AsyncClientServerApp\Client\obj\Debug\Client.pdb
